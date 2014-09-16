@@ -25,4 +25,4 @@ matrix:
     - python: "3.2"
     - python: "pypy"
 
-
+archive: true
